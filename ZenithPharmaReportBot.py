@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
-from credential import tg_token, wb_token, gs_token, sheet_id, col1, col2, col3
+# from credential import tg_token, wb_token, gs_token, sheet_id, col1, col2, col3
 import telebot
 from telebot import types
 import dataframe_image as dfi
